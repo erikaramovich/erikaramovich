@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm **Erik**, an engineer based in **Yerevan**.
+
+I am a participant in the **Miro Internship 2026**, where I am discovering Java and its ecosystem.
+
+### 🌱 Learning Journey
+I’m currently learning **Java tools for backend development** to build robust and scalable systems.
+
+### ⚡ Fun Fact
+I have a passion for **Mercedes** and **AMG** vehicles. 🏎️
 
 <!--
 **erikaramovich/erikaramovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
