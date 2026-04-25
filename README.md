@@ -6,20 +6,26 @@ I am a participant in the **Miro Internship 2026**, where I am diving deep into 
 
 ### 🌱 Learning Journey
 - **2023 - 2024:** Mastered Machine Learning fundamentals and Neural Network basics.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,ubuntu,regex,sklearn,selenium,&theme=light" />
+  </a>
+</p>
+
 - **Current:** Focused on **Java tools for backend development** to build robust and scalable systems.
 
 ### 🛠️ Tech Stack
 - **Developing environment**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,idea,spring,bash,maven,gradle&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,java,idea,spring,bash,maven,gradle&theme=dark" />
   </a>
 </p>
 
 - **Tools and technologies**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,dynamodb,postgres,postman,prometheus,grafana&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws,dynamodb,postgres,hibernate,postman,prometheus,grafana&theme=dark" />
   </a>
 </p>
 
