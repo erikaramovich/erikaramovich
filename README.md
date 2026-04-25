@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I'm **Erik**, an engineer based in **Yerevan**.
+I'm **Erik**, an engineer based in **Yerevan**. 🇦🇲
 
 I am a participant in the **Miro Internship 2026**, where I am diving deep into Java and its ecosystem.
 
 ### 🌱 Learning Journey
-- **2023 - 2024:** Mastered Machine Learning fundamentals and Neural Network basics.
+- **2023 - 2024:** 🧠 Mastered Machine Learning fundamentals and Neural Network basics. 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,linux,ubuntu,regex,sklearn,selenium,&theme=light" />
